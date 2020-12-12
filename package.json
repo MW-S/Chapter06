@@ -1,0 +1,21 @@
+{
+  "name": "chapter6",
+  "version": "1.0.0",
+  "description": "chapter6---SSR---Nuxt.js",
+  "author": "M&amp;W",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "bootstrap-vue": "^2.20.1",
+    "element-ui": "^2.4.11",
+    "jquery": "^3.5.1",
+    "nuxt": "^2.0.0",
+    "postcss": "^8.2.1"
+  },
+  "devDependencies": {}
+}
