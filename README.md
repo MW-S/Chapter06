@@ -1,6 +1,4 @@
-# chapter6
-
-> chapter6---SSR---Nuxt.js
+# chapter6---SSR---Nuxt.js
 
 ## Build Setup
 
@@ -20,3 +18,7 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+=======
+# Chapter06
+Chapter06---SSR---Nuxt.js
+>>>>>>> b623899402e0637951e90532ff8d68b61b40a16d
